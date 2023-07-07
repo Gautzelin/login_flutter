@@ -140,13 +140,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "login_flutter",
+      "name": "flutter_login1",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-07T19:28:28.236047Z",
+  "generated": "2023-07-07T19:54:42.631409Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
